@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CYChungCY
+- 👋 Hi, I’m @CYICode
 - 👀 I’m interested in Crypto Trading, Coding, AI creation, Sports & Watches
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing yet
